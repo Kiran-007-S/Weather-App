@@ -39,10 +39,3 @@ This Weather App is a web application built using React.js and integrates with t
 3. View the current weather details displayed on the dashboard.
 4. Add multiple cities to monitor their weather by repeating steps 1-3.
 
-## Contributors
-
-- [Your Name] - [Your GitHub Profile](https://github.com/your_profile)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
